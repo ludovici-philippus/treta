@@ -6,4 +6,4 @@
 export default {
   name: 'IndexPage',
 }
-</script>a
+</script>
