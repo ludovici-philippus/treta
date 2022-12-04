@@ -1,5 +1,5 @@
 <template>
-  <Base another_text='Teste' @anotherFunction=handleAnotherFunction() />
+  <Base another_text='Testando feature' @anotherFunction=handleAnotherFunction() />
 </template>
 
 <script>
